@@ -69,8 +69,8 @@ main.BorderColor3 = Color3.fromRGB(27, 42, 53)
 main.BorderSizePixel = 0
 main.Position = UDim2.new(0, 0, 0.351000011, 0)
 main.Size = UDim2.new(0, 409, 0, 531)
-frame.Active = true
-frame.Draggable = true
+main.Active = true
+main.Draggable = true
 
 UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(137, 0, 254)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(223, 0, 255))}
 UIGradient.Parent = main
